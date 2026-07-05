@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "AZ Big Media",
+      "title": "The future of real estate operations: AI and virtual assistants working together",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXpKazdjZkdrY1kyYTh1S21uUWw4UjhseWJqSHBuNm5XQ2dmWnpRRVBSNWhvMGdENjBmanRIQk1lZlNLa2hoRjA3MG5iYVBqb0I2aXlPTGpfb1V3bXZVQXNFMXJHUE9rbGFfYkNWdUtqM2pWQnl6N3p6YjJ2LW00TzVBOVBqaHdJZVFaRnF2ZDJVM25PSlQ0N3RlclZfV3A5NHRJRjNpc3Uxdm4tbkVveWFlYkZDdw?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "Business Standard",
+      "title": "Workflow sync crucial to get maximum AI returns",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "AIMultiple",
+      "title": "OpenClaw (Moltbot/Clawdbot) Use Cases and Security 2026",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBJX1FvZk1peHRfTWNUUGhUdE9EMXBpNXpfSkhEdDNkZWpycllGWC13bFdEU1dRSTQ1aDVPXy01N25PczZV?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash('Super for real estate agents managing follow-ups, listings, and scheduling|niche_landing|real estate agents|2026-07-05T23:44:57.686832+00:00') \u2192 architecture=workflow-command-center, typography=Cabinet Grotesk, components=[workflow-playbook-timeline, implementation-checklist, source-card-dossier], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero grabs attention, proof chapters build interest, workflow media builds desire, CTA band drives action. Font Selection: Cabinet Grotesk verified. Hero Math Verification: max-width 1120px, clamp sizing yields 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded animations. Label Sweep & Button Check: CTAs black/white pill with contrast verified.",
+  "generated_at": "2026-07-05T23:45:53.812811+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused, long-form niche landing page showing how Super\u2019s personal AI agents operate real estate software directly, reuse a computer-use cache for repeated workflows, and outperform general assistants for day-to-day agent operations like follow-ups, listings, and scheduling."
+}
